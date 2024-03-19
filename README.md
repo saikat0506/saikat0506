@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikat0506&show_icons=true&locale=en" alt="saikat0506" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikat0506&" alt="saikat0506" /></p>
+
+<a href="https://app.daily.dev/saikat6762"><img src="https://api.daily.dev/devcards/v2/lMYBIqKbEGnAXaSZRUKnb.png?type=default&r=xvj" width="356" alt="saikat biswas's Dev Card"/></a>
